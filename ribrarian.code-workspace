@@ -1,0 +1,27 @@
+{
+    "folders": [
+        {
+            "name": "files",
+            "path": "."
+        },
+        {
+            "name": "Frontend",
+            "path": "rib-ui"
+        },
+        {
+            "name": "Backend",
+            "path": "rib-server"
+        }
+    ],
+    "settings": {
+        "editor.insertSpaces": true,
+        "[typescriptreact]": {
+            "editor.defaultFormatter": "esbenp.prettier-vscode"
+        },
+    },
+    "extensions": {
+        "recommendations": [
+            "aaron-bond.better-comments"
+        ]
+    }
+}
