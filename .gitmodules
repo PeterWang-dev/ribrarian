@@ -1,0 +1,8 @@
+[submodule "rib-server"]
+	path = rib-server
+	url = git@github.com:PeterWang-dev/rib-server.git
+	branch = origin/main
+[submodule "rib-ui"]
+	path = rib-ui
+	url = git@github.com:PeterWang-dev/rib-ui.git
+	branch = origin/main
