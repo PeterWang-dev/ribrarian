@@ -1,2 +1,9 @@
-playground/
-playground.code-workspace
+*
+!docs/
+!rib-backend
+!rib-ui
+!.gitignore
+!.gitmodules
+!LICENSE
+!README.md
+!ribrarain.code-workspace

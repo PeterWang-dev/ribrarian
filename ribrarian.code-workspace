@@ -1,8 +1,12 @@
 {
     "folders": [
+        // {
+        //     "name": "files",
+        //     "path": "."
+        // },
         {
-            "name": "files",
-            "path": "."
+            "name": "Documentation",
+            "path": "docs"
         },
         {
             "name": "Frontend",
@@ -10,18 +14,24 @@
         },
         {
             "name": "Backend",
-            "path": "rib-server"
+            "path": "rib-backend"
         }
     ],
     "settings": {
         "editor.insertSpaces": true,
-        "[typescriptreact]": {
-            "editor.defaultFormatter": "esbenp.prettier-vscode"
-        },
     },
     "extensions": {
         "recommendations": [
-            "aaron-bond.better-comments"
+            // Global
+            "aaron-bond.better-comments",
+            "rust-lang.rust-analyzer",
+            "tamasfe.even-better-toml",
+            "serayuzgur.crates",
+            "dustypomerleau.rust-syntax",
+            "jscearcy.rust-doc-viewer",
+            "vadimcn.vscode-lldb",
+            // Backend
+            "yy0931.vscode-sqlite3-editor"
         ]
     }
 }

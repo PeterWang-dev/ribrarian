@@ -4,3 +4,6 @@
 [submodule "rib-ui"]
 	path = rib-ui
 	url = git@github.com:PeterWang-dev/rib-ui.git
+[submodule "rib-backend"]
+	path = rib-backend
+	url = git@github.com:PeterWang-dev/rib-backend.git
